@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="9j!T6C9JK/d{TI.eV1CS" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="s2Q@]Y)/e]:aq*Z^qy1$"><value name="TIMES"><shadow type="math_whole_number" id="q|N~nqm{L^T;KI:3yoNw"><field name="NUM">1e+58</field></shadow></value><statement name="DO"><block type="continue_keyword" id="zk|p^=_IDRiN7^+d7$mX"></block></statement><next><block type="music_playable_play" id="2^+p;B(1%`{AM#N@9d@x"><field name="playbackMode">music.PlaybackMode.InBackground</field><value name="toPlay"><shadow type="music_string_playable" id="G.EyTP(;uSh](r!!VZH1"><value name="melody"><shadow type="melody_editor" id="#WM[$p:*POhgwyyAx~nx"><field name="melody">"A F E F D G E F "</field></shadow></value><value name="bpm"><shadow type="math_number_minmax" id="5B/o7O8Ov~FPAdmE!yv!"><mutation min="40" max="500" label="Bpm" precision="0"></mutation><field name="SLIDER">120</field></shadow></value></shadow></value><next><block type="basic_show_icon" id="8KA*AgD$d*oz0Ox;]0Pf"><field name="i">IconNames.Target</field></block></next></block></next></block></statement></block><block type="device_button_event" id="Cz]9:A93u@[RL(0[-F/k" x="-6" y="339"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="PW-[axFZA:G/*`9:e+)D"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block></xml>
